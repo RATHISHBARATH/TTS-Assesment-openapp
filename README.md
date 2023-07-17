@@ -1,1 +1,1 @@
-# TTS-Assesment-openapp
+# TTS-Assesment-openapp Synthetic voice
